@@ -1,4 +1,3 @@
 # SANDRA MILENA RAMIREZ ROMERO
-# NOMBRE DEL PROYECTO PAG
-# FIGMA URL
+# PERFIL WEB
 Descripción del proyecto, sin numeral
